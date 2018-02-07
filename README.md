@@ -9,6 +9,9 @@
 - Download the stock.widget zip file.
 - Unzip the downloaded file.
 - Move the extracted folder 'stock.widget' to your Übersicht widgets folder.
+- Navigate to the [Alpha Vantage](https://www.alphavantage.co/) website
+- Click "GET YOUR FREE API KEY TODAY" to register for an API key
+- Paste your fresh API key in place of the "YOURKEYHERE" text in the index.coffee
 
 ## Info
 Uses the (somtimes unreliable) [Alpha Vantage](https://www.alphavantage.co/) API. Occasionally the API call will return an error,
