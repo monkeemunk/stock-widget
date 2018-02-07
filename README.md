@@ -1,12 +1,12 @@
 # stock-widget
 
-[Übersicht](http://tracesof.net/uebersicht/) widget to display stock prices pulled from [Alpha Vantage](https://www.alphavantage.co/)
+[Übersicht](http://tracesof.net/uebersicht/) widget to display stock prices pulled from [Alpha Vantage](https://www.alphavantage.co/).
 
 ![stock-widget in action](screenshot.png)
 
 ## Installation
 - Install [Übersicht](http://tracesof.net/uebersicht/) if you haven't already.
-- Download the [zip file](https://github.com/monkeemunk/stock-widget)
+- Download the zip file.
 - Unzip the downloaded file.
 - Move the extracted folder 'stock.widget' to your Übersicht widgets folder.
 
