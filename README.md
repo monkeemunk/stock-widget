@@ -12,6 +12,7 @@
 - Navigate to the [Alpha Vantage](https://www.alphavantage.co/) website
 - Click "GET YOUR FREE API KEY TODAY" to register for an API key
 - Paste your fresh API key in place of the "YOURKEYHERE" text in the index.coffee
+- Set the desired stock symbol in the API call in the index.coffee (default is AAPL)
 
 ## Info
 Uses the (sometimes unreliable) [Alpha Vantage](https://www.alphavantage.co/) API. Occasionally the API call will return an error,

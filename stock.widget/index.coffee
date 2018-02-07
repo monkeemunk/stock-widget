@@ -1,4 +1,4 @@
-command: 'curl -s "https://www.alphavantage.co/query?function=TIME_SERIES_INTRADAY&symbol=MNST&interval=1min&apikey=YOURKEYHERE"'
+command: 'curl -s "https://www.alphavantage.co/query?function=TIME_SERIES_INTRADAY&symbol=AAPL&interval=1min&apikey=YOURKEYHERE"'
 
 refreshFrequency: 30000
 
