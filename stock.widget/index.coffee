@@ -28,6 +28,7 @@ getPrice: (output, table) ->
     price = null
     stock = null
 
+    # In case API call returns an error
     try
         json = JSON.parse(output)
         current = json['Meta Data']['3. Last Refreshed']
@@ -38,6 +39,7 @@ getPrice: (output, table) ->
     tbody = table.find("tbody")
     tbody.empty()
 
+    # If price and stock are both still null, API call didn't return a valid JSON string
     if price == null and stock == null
         tbody.append "<tr><td>----</td><td>00.00</td></tr>"
     else
