@@ -6,7 +6,7 @@
 
 ## Installation
 - Install [Übersicht](http://tracesof.net/uebersicht/) if you haven't already.
-- Download the stock-widget zip file.
+- Download the stock.widget zip file.
 - Unzip the downloaded file.
 - Move the extracted folder 'stock.widget' to your Übersicht widgets folder.
 
