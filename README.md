@@ -14,7 +14,7 @@
 - Paste your fresh API key in place of the "YOURKEYHERE" text in the index.coffee
 
 ## Info
-Uses the (somtimes unreliable) [Alpha Vantage](https://www.alphavantage.co/) API. Occasionally the API call will return an error,
+Uses the (sometimes unreliable) [Alpha Vantage](https://www.alphavantage.co/) API. Occasionally the API call will return an error,
 in which case the widget will display blanks in place of the stock symbol, and zeroes in place
 of the stock price. Also, it seems that the API call is only capable of pulling one stock price
 at a time, which in my case is fine but may not be for some people.
